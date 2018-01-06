@@ -1,0 +1,4 @@
+model_checkpoint_path: "my_deep_mnist_model_1"
+all_model_checkpoint_paths: "/tmp/my_deep_mnist_model.ckpt"
+all_model_checkpoint_paths: "/tmp/my_deep_mnist_model_1.ckpt"
+all_model_checkpoint_paths: "my_deep_mnist_model_1"
